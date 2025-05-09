@@ -46,7 +46,7 @@ const Navbar = () => {
         
         <div className="text-2xl font-serif">
           <Link to="/" className="font-medium flex items-center">
-            <img src="/lovable-uploads/logo.png" alt="Zuree" className="h-14" />
+            <img src="dist/lovable-uploads/logo.png" alt="Zuree" className="h-14" />
           </Link>
         </div>
         
